@@ -2,7 +2,7 @@
 
 title:            BIOMOD Team Name
 locale:           en_US
-url:
+url:		  http://localhost:4000
 
 # Jekyll configuration
 
