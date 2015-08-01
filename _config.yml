@@ -27,12 +27,12 @@ kramdown:
 # Site owner
 owner:
   name: Derr Lab
-  avatar: 
+  avatar: 2.jpg
   bio: "Biomod Team Project"
   email: 
   disqus-shortname: 
     bing-verify: 
-  github: derrlab
+  
    youtube: LexwareTV
  
 
