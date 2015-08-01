@@ -25,8 +25,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: dna_logo.jpg
+   avatar: 
     email:
   disqus-shortname:
   twitter: #username
