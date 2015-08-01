@@ -25,14 +25,37 @@ kramdown:
 
 
 # Site owner
-owner:
+  name: Haufe-Lexware
   avatar: 2.jpg
-  bio: "Biomod Team Project"
+  bio: "Developer blog."
   email: 
   disqus-shortname: 
-    bing-verify: 
-  
-   youtube: LexwareTV
+  twitter: HaufeDev
+  facebook: Haufe-Lexware
+  google:
+    plus: #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: Haufe-Lexware
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: LexwareTV
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
  
 
 include: [".htaccess"]
