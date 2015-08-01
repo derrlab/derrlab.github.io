@@ -1,13 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: /Home/
 
-- title: Sample Posts
-  url: /posts/
+- title: Project Idea
+  url: /project_idea/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Methods
+  url: /methods/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Discussion
+  url: /discussion/
+
+- title: Team
+  url: /team/

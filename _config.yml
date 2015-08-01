@@ -1,9 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            BIOMOD Team Name
 locale:           en_US
 url:
-
 
 # Jekyll configuration
 
@@ -27,9 +26,8 @@ kramdown:
 # Site owner
 owner:
   name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  avatar: dna_logo.jpg
+    email:
   disqus-shortname:
   twitter: #username
   facebook: #username
